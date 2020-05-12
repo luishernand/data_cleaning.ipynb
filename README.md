@@ -1,4 +1,4 @@
-<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG" heiht= 100 width= 100 alt=" ">  
+<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG" heiht= 150 width= 150 alt=" ">  
 
 # Fundamentos de pandas.   
 Es una serie de proyectos realizados que contienen:  
