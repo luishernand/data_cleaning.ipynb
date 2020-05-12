@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG)
 # Fundamentos de pandas. 
 Es una serie de proyectos realizados que contienen:  
 1. manipulacián de datos 
