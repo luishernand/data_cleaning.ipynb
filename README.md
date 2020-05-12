@@ -1,3 +1,4 @@
+![logo]()
 # Fundamentos de pandas. 
 Es una serie de proyectos realizados que contienen:  
 1. manipulacián de datos 
