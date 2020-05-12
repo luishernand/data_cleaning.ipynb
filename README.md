@@ -1,6 +1,6 @@
+<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG" height= 300 width= 167, alt=" ">  
 
-<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG" height= 100 width= 167, alt=" ">  
-# Fundamentos de pandas. 
+# Fundamentos de pandas.   
 Es una serie de proyectos realizados que contienen:  
 1. manipulacián de datos 
 2. limpieza de datos
